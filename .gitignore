@@ -17,3 +17,4 @@ Brewfile.lock.json
 .DS_Store
 
 examples/*.mp3
+src/openai/Bhaskar/ai-text-generator/
